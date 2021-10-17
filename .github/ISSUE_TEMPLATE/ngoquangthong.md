@@ -2,11 +2,11 @@
 name: ngoquangthong
 about: cafechungkhoan
 title: ngoquangthong
-labels: ngoquangthong
-assignees: QuangThong1
-
+labels: cafechungkhoan
+assignees: NGO QUANG THONG
+e-mail: quangthong1011@gmail.com
+phone: 0915101105
 ---
-
 <!DOCTYPE html>
 <html class='ltr' dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
